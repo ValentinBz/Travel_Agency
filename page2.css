@@ -1,0 +1,18 @@
+body
+{
+	background-color: #cecece;
+}
+.retour
+{
+	height: 150px;
+	float: right;
+	margin-bottom: 100px;
+	margin-right: 100px;
+}
+
+.video
+{
+	clear: right;
+	display: block;
+	text-align: center;
+}
